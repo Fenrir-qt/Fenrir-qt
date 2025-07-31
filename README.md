@@ -3,4 +3,4 @@ I'm an IT student with a strong passion and hunger for improvent in programming.
 
 ![Fenrir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenrir-qt&theme=react&show_icons=true)
 
-[View my personal portfolio](https://fenrir-qt.github.io/nico-burog/)
+
