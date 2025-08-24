@@ -11,7 +11,7 @@ I enjoy building small projects, experimenting with different technologies, and 
 
 ### 📫 Connect with Me
 - GitHub: [Fenrir-qt](https://github.com/Fenrir-qt)  
-- LinkedIn: [Nico Angelo Burog](https://linkedin.com/in/linkedin.com/in/nico-angelo-burog-42199235b)  
+- LinkedIn: [Nico Angelo Burog](https://linkedin.com/in/nico-angelo-burog-42199235b)  
 - Email: [fenrirqtpie@gmail.com](mailto:fenrirqtpie@gmail.com)
  
 ![Fenrir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenrir-qt&theme=react&show_icons=true)
