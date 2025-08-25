@@ -14,8 +14,6 @@ I enjoy building small projects, experimenting with different technologies, and 
 - LinkedIn: [Nico Angelo Burog](https://linkedin.com/in/nico-angelo-burog-42199235b)  
 - Email: [fenrirqtpie@gmail.com](mailto:fenrirqtpie@gmail.com)
  
-![Fenrir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenrir-qt&theme=react&show_icons=true)
-
 [View my personal portfolio](https://nico-burog.vercel.app/)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
