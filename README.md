@@ -4,9 +4,10 @@ I’m **Nico Angelo**, a curious learner who’s exploring the world of **web de
 I enjoy building small projects, experimenting with different technologies, and picking up new skills along the way.  
 
 ### 🌱 About Me
-- 💻 Currently learning and improving my skills in **full-stack development** (with a focus on frontend + backend basics).  
+- 💻 Currently learning and improving my skills in **full-stack development** (with a focus on frontend + backend basics).
+- 🔨 Exploring modern stacks like **MERN** and **PERN** to build scalable and dynamic applications.
 - 🔐 Interested in **cybersecurity, backend systems, and how the web really works under the hood**.  
-- 🚀 Exploring tools like **Python, Node.js, Express, and React**.  
+- 🚀 Working with tools and technologies like **Python**, **Node.js**, **Express**, **React**, and constantly experimenting with new tech.  
 - 🎯 My goal is to keep growing, break things (in a good way 😅), and learn from the process. 
 
 ### 📫 Connect with Me
