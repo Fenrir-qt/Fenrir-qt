@@ -5,7 +5,7 @@ I enjoy building small projects, experimenting with different technologies, and 
 
 ### 🌱 About Me
 - 💻 Currently learning and improving my skills in **full-stack development** (with a focus on backend + frontend basics).
-- 🔨 Exploring modern stacks like **MERN** and **PERN** to build scalable and dynamic applications.
+- 🔨 Exploring modern stacks like **PERN** and **Django** to build scalable and dynamic applications.
 - 🔐 Interested in **cybersecurity, backend systems, and how the web really works under the hood**.  
 - 🚀 Working with tools and technologies like **Python**, **Node.js**, **Express**, **React**, and constantly experimenting with new tech.  
 - 🎯 My goal is to keep growing, break things (in a good way 😅), and learn from the process. 
