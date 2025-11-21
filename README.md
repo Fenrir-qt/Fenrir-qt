@@ -13,26 +13,33 @@ I enjoy building small projects, experimenting with different technologies, and 
 ### 💻 Tech Stack
 | Programming Languages | Frontend | Backend | Tools & Platforms |
 |---------|---------|-----------|-----------|
-|![ProgLangSkills](https://skillicons.dev/icons?i=python,javascript,typescript,cpp&perline=3)| ![Frontend Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,react,nextjs&perline=3) | ![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,django,&perline=3) | ![Tools](https://skillicons.dev/icons?i=vscode,github,git,vercel,figma,postgresql,mysql,linux&perline=3) |
+|![ProgLangSkills](https://skillicons.dev/icons?i=python,javascript,typescript,cpp&perline=3)| ![Frontend Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,react,nextjs&perline=3) | ![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,django,&perline=3) | ![Tools](https://skillicons.dev/icons?i=vscode,github,git,vercel,figma,postgresql,mysql,linux,arduino&perline=3) |
 
 ***
 
-<h3 align="center">📫 Connect with Me</h3>
+### 📫 Connect with Me
+You can reach out to me through these platforms.
+<br/>
+<br/>
+<a href="https://linkedin.com/in/nico-angelo-burog-42199235b/">
+  <img 
+    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+    alt="LinkedIn"
+  />
+</a>
+<a href="https://www.instagram.com/_ynotcoconut/">
+  <img 
+    src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
+    alt="Hackerrank"
+  />
+</a>
+<a href="mailto:mickburog87@gmail.com">
+  <img 
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Gmail"
+  />
+</a>
 
-<div align="center">
-  <a href="https://linkedin.com/in/nico-angelo-burog-42199235b/">
-    <img 
-      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://www.hackerrank.com/profile/fenrirqt">
-    <img 
-      src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
-      alt="Hackerrank"
-    />
-  </a>
-</div>
 
 
 
