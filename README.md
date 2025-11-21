@@ -17,7 +17,7 @@ I enjoy building small projects, experimenting with different technologies, and 
 ### 💻 Tech Stack
 | Programming Languages | Frontend | Backend | Tools & Platforms |
 |---------|---------|-----------|-----------|
-|![ProgLangSkills](https://skillicons.dev/icons?i=python,javascript,typescript,cpp&perline=3)| ![Frontend Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,react,nextjs&perline=3) | ![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,django,&perline=3) | ![Tools](https://skillicons.dev/icons?i=vscode,github,git,vercel,figma,postgresql,mysql,linux,arduino&perline=3) |
+|![ProgLangSkills](https://skillicons.dev/icons?i=python,javascript,typescript,cpp&perline=3)| ![Frontend Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,react,nextjs&perline=3) | ![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,django,&perline=3) | ![Tools](https://skillicons.dev/icons?i=vscode,github,git,vercel,figma,postman,postgresql,mysql,linux,arduino&perline=3) |
 
 #
 
