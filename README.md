@@ -11,6 +11,7 @@ I enjoy building small projects, experimenting with different technologies, and 
 - 🔐 Interested in **cybersecurity, backend systems, and how the web really works under the hood**.  
 - 🚀 Working with tools and technologies like **Python**, **Node.js**, **Express**, **React**, and constantly experimenting with new tech.  
 - 🎯 My goal is to keep growing, break things (in a good way), and learn from the process.
+- 🎮 When I'm not coding, I play video games in my free time.
 
 #
 
@@ -19,30 +20,8 @@ I enjoy building small projects, experimenting with different technologies, and 
 |---------|---------|-----------|-----------|
 |![ProgLangSkills](https://skillicons.dev/icons?i=python,javascript,typescript,cpp&perline=3)| ![Frontend Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,react,nextjs&perline=3) | ![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,django,&perline=3) | ![Tools](https://skillicons.dev/icons?i=vscode,github,git,vercel,figma,postman,postgresql,mysql,linux,arduino&perline=3) |
 
-#
 
-### 📫 Connect with Me
-You can reach out to me through these platforms.
-<br/>
-<br/>
-<a href="https://linkedin.com/in/nico-angelo-burog-42199235b/">
-  <img 
-    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
-    alt="LinkedIn"
-  />
-</a>
-<a href="https://www.instagram.com/_ynotcoconut/">
-  <img 
-    src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
-    alt="Hackerrank"
-  />
-</a>
-<a href="mailto:mickburog87@gmail.com">
-  <img 
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-    alt="Gmail"
-  />
-</a>
+
 
 
 
